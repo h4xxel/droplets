@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: fre 16 jan 2015 14:41:35
+#
+$CMP DIN_5
+D Connecteur Din 5 broches
+K CONN DIN
+$ENDCMP
+#
+$CMP MIDI_DIN
+D Connecteur Din 5 broches
+K CONN DIN
+$ENDCMP
+#
+#End Doc Library
